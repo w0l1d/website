@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="" />
+    <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/indexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/indexRouter.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k6NHEgakumKZKw6ob23y7k0We3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +33,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.4" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -41,25 +49,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605016991468</updated>
-      <workItem from="1605016992530" duration="6036000" />
+      <workItem from="1605016992530" duration="7393000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="559" y="254" key="#Notifications" timestamp="1605025927410">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="559" y="254" key="#Notifications/0.0.1603.862@0.0.1603.862" timestamp="1605025927410" />
     <state x="393" y="71" key="#Plugins" timestamp="1605018689596">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="393" y="71" key="#Plugins/0.0.1603.862@0.0.1603.862" timestamp="1605018689596" />
+    <state x="255" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605025793966">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="255" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1603.862@0.0.1603.862" timestamp="1605025793966" />
     <state x="582" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605017348871">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="582" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1605017348871" />
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605018589350">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605025920767">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605018589350" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605025920767" />
+    <state x="628" y="332" key="Github.CreateGistDialog" timestamp="1605025764272">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="628" y="332" key="Github.CreateGistDialog/0.0.1603.862@0.0.1603.862" timestamp="1605025764272" />
+    <state x="682" y="328" key="Github.ShareDialog" timestamp="1605025950632">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="682" y="328" key="Github.ShareDialog/0.0.1603.862@0.0.1603.862" timestamp="1605025950632" />
+    <state x="309" y="75" key="SettingsEditor" timestamp="1605025819106">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="309" y="75" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1605025819106" />
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605025933404">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605025933404" />
   </component>
 </project>
