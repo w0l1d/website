@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const User = require('../models/user')
 const { registerValidation } = require('../validations')
-const encrypter = require('encrypter')
+const encrypter = require('../encrypter')
 
 router.get('/register', (req, res) => {
     res.render('register')
