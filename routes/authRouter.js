@@ -17,7 +17,7 @@ router.get('/login', (req, res) => {
 router.post('/register', async (req, res) => {
 
     try {
-
+        res.send("hello world!")
         //  validate the data before create a user
         const {error} = registerValidation(req.body)
         if (error) return res.status(400).send(error);
