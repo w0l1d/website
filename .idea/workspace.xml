@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/encrypter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/apiRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/indexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/indexRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605016991468</updated>
-      <workItem from="1605016992530" duration="7393000" />
+      <workItem from="1605016992530" duration="15601000" />
     </task>
+    <task id="LOCAL-00001" summary="dsf er">
+      <created>1605026069200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605026069200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="dsf er" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsf er" />
   </component>
   <component name="WindowStateProjectService">
     <state x="559" y="254" key="#Notifications" timestamp="1605025927410">
@@ -76,10 +93,10 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="582" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1605017348871" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605025920767">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605026067427">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605025920767" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605026067427" />
     <state x="628" y="332" key="Github.CreateGistDialog" timestamp="1605025764272">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
@@ -92,9 +109,17 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="309" y="75" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1605025819106" />
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605025933404">
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605026071182">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605025933404" />
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1605026071182" />
+    <state x="457" y="196" key="run.anything.popup" timestamp="1605048469249">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="457" y="196" key="run.anything.popup/0.0.1603.862@0.0.1603.862" timestamp="1605048469249" />
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605052552104">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605052552104" />
   </component>
 </project>
