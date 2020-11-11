@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/apiRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/apiRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/indexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/indexRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605016991468</updated>
       <workItem from="1605016992530" duration="16018000" />
-      <workItem from="1605054937102" duration="1312000" />
+      <workItem from="1605054937102" duration="2807000" />
     </task>
     <task id="LOCAL-00001" summary="dsf er">
       <created>1605026069200</created>
@@ -101,10 +100,10 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="582" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1605017348871" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605054514159">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605114857633">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605054514159" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605114857633" />
     <state x="628" y="332" key="Github.CreateGistDialog" timestamp="1605025764272">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
@@ -129,5 +128,17 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605054838910" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.16.2/core-modules/internal/modules/cjs/loader.js</url>
+          <line>971</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
