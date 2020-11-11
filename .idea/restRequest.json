@@ -1,0 +1,8 @@
+{
+  "uri": "http://localhost/auth/register?username\u003ddfjwkodko\u0026email\u003ddsfrgerg%40dferf.sdfsd\u0026password\u003dsfdsjfdfifeifi+e+f+",
+  "method": "POST",
+  "body": "",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
