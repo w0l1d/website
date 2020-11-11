@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/login.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/register.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/apiRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/apiRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/apiRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/indexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/indexRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605016991468</updated>
       <workItem from="1605016992530" duration="16018000" />
-      <workItem from="1605054937102" duration="2807000" />
+      <workItem from="1605054937102" duration="3762000" />
     </task>
     <task id="LOCAL-00001" summary="dsf er">
       <created>1605026069200</created>
@@ -73,11 +82,59 @@
       <option name="project" value="LOCAL" />
       <updated>1605114860507</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dsf er">
+      <created>1605123849584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605123849584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsf er" />
@@ -100,10 +157,14 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="582" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.862@0.0.1603.862" timestamp="1605017348871" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605114857633">
+    <state x="531" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605124400042">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605114857633" />
+    <state x="531" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1603.862@0.0.1603.862" timestamp="1605124400042" />
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605123847539">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605123847539" />
     <state x="628" y="332" key="Github.CreateGistDialog" timestamp="1605025764272">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
@@ -116,10 +177,10 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="309" y="75" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1605025819106" />
-    <state x="393" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605026071182">
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605123949693">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="393" y="163" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1605026071182" />
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1605123949693" />
     <state x="457" y="196" key="run.anything.popup" timestamp="1605048469249">
       <screen x="0" y="0" width="1603" height="862" />
     </state>

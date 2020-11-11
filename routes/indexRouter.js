@@ -1,4 +1,6 @@
 const express = require('express');
+const User = require('../models/user');
+const {registerValidation} = require("../validations");
 const router = express.Router();
 
 
@@ -6,7 +8,7 @@ router.get('/', (req, res, next) => {
     // res.send("<h1>Hello World!</h1>")
     res.render('index')
 })
-
+/*
 router.post('/api/register', async (req, res) => {
 
     //  validate the data before create a user
@@ -35,7 +37,7 @@ router.post('/api/register', async (req, res) => {
         res.status(500).send(error)
     }
 })
-
+*/
 
 
 

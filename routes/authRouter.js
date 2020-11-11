@@ -3,6 +3,15 @@ const User = require('../models/user')
 const { registerValidation } = require('../validations')
 const encrypter = require('encrypter')
 
+router.get('/register', (req, res) => {
+    res.render('register')
+})
+
+
+router.get('/login', (req, res) => {
+    res.render('login')
+})
+
 
 /*
 router.post('/api/register', async (req, res) => {
