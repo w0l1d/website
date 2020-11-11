@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67a06482-4023-4f4f-bfea-2ad83ead524b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605016991468</updated>
       <workItem from="1605016992530" duration="16018000" />
-      <workItem from="1605054937102" duration="4413000" />
+      <workItem from="1605054937102" duration="4830000" />
     </task>
     <task id="LOCAL-00001" summary="dsf er">
       <created>1605026069200</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605124915587</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dsf er">
+      <created>1605125568100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605125568100</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +183,10 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="531" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1603.862@0.0.1603.862" timestamp="1605124400042" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605124913564">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605125565988">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605124913564" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1603.862@0.0.1603.862" timestamp="1605125565988" />
     <state x="581" y="185" key="FileChooserDialogImpl" timestamp="1605125365890">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
@@ -196,18 +203,18 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="309" y="75" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1605025819106" />
-    <state x="393" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605124916499">
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605125575378">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="393" y="163" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1605124916499" />
+    <state x="393" y="163" key="Vcs.Push.Dialog.v2/0.0.1603.862@0.0.1603.862" timestamp="1605125575378" />
     <state x="457" y="196" key="run.anything.popup" timestamp="1605048469249">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="457" y="196" key="run.anything.popup/0.0.1603.862@0.0.1603.862" timestamp="1605048469249" />
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605125289351">
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605125849586">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605125289351" />
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1605125849586" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

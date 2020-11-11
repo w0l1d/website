@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const User = require('../models/user')
 const { registerValidation } = require('../validations')
-const encrypter = require('../encrypter')
+const {encrypt} = require('../encrypter')
 
 router.get('/register', (req, res) => {
     res.render('register')
@@ -37,7 +37,7 @@ router.post('/register', async (req, res) => {
         const user = new User({
             username: req.body.username,
             prEmail: req.body.email,
-            password: await encrypter.encrypt(req.body.password),
+            password: await encrypt(req.body.password),
             sendNews: req.body.sendNews
         })
 
