@@ -25,7 +25,7 @@ db.once('open', () => console.log("Connected to Mongoose!"))
 
 app.use('/', indexRouter);
 
-app.use('/api', apiRouter);
+
 
 
 

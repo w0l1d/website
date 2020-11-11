@@ -9,7 +9,7 @@ router.get('/', (req, res, next) => {
     res.render('index')
 })
 
-app.use('/register', auth)
+
 
 
 module.exports = router
