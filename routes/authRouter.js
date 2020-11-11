@@ -13,8 +13,8 @@ router.get('/login', (req, res) => {
 })
 
 
-/*
-router.post('/api/register', async (req, res) => {
+
+router.post('/register', async (req, res) => {
 
     //  validate the data before create a user
     const { error } = registerValidation(req.body)
@@ -42,5 +42,5 @@ router.post('/api/register', async (req, res) => {
         res.status(500).send(error)
     }
 })
-*/
+
 module.exports = router;
